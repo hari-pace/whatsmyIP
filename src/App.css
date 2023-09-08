@@ -1,0 +1,39 @@
+h2 {
+  font-size: 2em;
+  text-align: center;
+}
+
+.col {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main-container {
+  margin-top: 4%;
+}
+
+#time {
+  text-align: center;
+  margin-top: 4%;
+  padding: 2%;
+}
+
+#IP-section {
+  padding: 2%;
+}
+
+#info-section {
+  padding: 2%;
+}
+
+#map {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
